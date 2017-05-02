@@ -48,9 +48,9 @@ SplashScreen::SplashScreen(Qt::WindowFlags f, const NetworkStyle *networkStyle) 
     QString versionText     = QString("Version %1").arg(QString::fromStdString(FormatFullVersion()));
     QString copyrightText   = QString::fromUtf8(
     	(
-    		std::string("\xc2\xA9 2009-2010")+std::string(" Satoshi Nakamoto")+
-    		std::string("\xc2\xA9 2009-")+std::to_string(COPYRIGHT_YEAR)+std::string(" The Bitcoin Core Developers")+
-    		CopyrightHolders(strprintf("\xc2\xA9 %u-%u ", 2009, COPYRIGHT_YEAR))
+    		std::string("\xc2\xA9 2009-2010")+std::string(" Satoshi Nakamoto\r\n")+
+    		std::string("\xc2\xA9 2009-")+std::to_string(COPYRIGHT_YEAR)+std::string(" The Bitcoin Core Developers\r\n")+
+    		CopyrightHolders(strprintf("\xc2\xA9 %u-%u ", 2017, COPYRIGHT_YEAR))
     	)
     	.c_str());
     QString titleAddText    = networkStyle->getTitleAddText();
