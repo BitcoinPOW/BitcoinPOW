@@ -2858,8 +2858,8 @@
         <translation>Niet mogelijk ok HTTP-server te starten. Zie debuglogboek voor details.</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>Bitcoin POW</source>
+        <translation>Bitcoin POW</translation>
     </message>
     <message>
         <source>The %s developers</source>

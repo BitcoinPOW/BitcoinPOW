@@ -1338,7 +1338,7 @@
         <translation>Ruli fone kiel demono kaj akcepti komandojn</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Bitcoin POW</source>
         <translation>Kerno de Bitmono</translation>
     </message>
     <message>

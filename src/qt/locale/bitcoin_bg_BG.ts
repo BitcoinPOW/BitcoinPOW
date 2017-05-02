@@ -420,7 +420,7 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Bitcoin POW</source>
         <translation>Биткойн ядро</translation>
     </message>
     </context>

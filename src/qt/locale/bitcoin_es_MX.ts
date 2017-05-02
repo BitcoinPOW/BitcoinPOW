@@ -604,7 +604,7 @@
         <translation>Opciones:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Bitcoin POW</source>
         <translation>nucleo Bitcoin</translation>
     </message>
     <message>

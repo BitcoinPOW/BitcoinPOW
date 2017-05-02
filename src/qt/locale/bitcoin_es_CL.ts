@@ -772,7 +772,7 @@
 </translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Bitcoin POW</source>
         <translation>bitcoin core</translation>
     </message>
     <message>

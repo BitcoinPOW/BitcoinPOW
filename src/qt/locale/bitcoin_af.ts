@@ -908,7 +908,7 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Bitcoin POW</source>
         <translation>Bitcoin Kern</translation>
     </message>
     <message>

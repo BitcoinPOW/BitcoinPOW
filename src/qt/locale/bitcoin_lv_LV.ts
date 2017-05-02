@@ -1124,8 +1124,8 @@
         <translation>Darbināt fonā kā servisu un pieņemt komandas</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>Bitcoin POW</source>
+        <translation>Bitcoin POW</translation>
     </message>
     <message>
         <source>&lt;category&gt; can be:</source>

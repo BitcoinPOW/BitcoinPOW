@@ -3054,8 +3054,8 @@
         <translation>Não foi possível iniciar o servidor HTTP. Veja o log para detaihes.</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>Bitcoin POW</source>
+        <translation>Bitcoin POW</translation>
     </message>
     <message>
         <source>The %s developers</source>

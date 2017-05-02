@@ -3953,8 +3953,8 @@
     </message>
     <message>
         <location line="-360"/>
-        <source>Bitcoin Core</source>
-        <translation type="unfinished">Bitcoin Core</translation>
+        <source>Bitcoin POW</source>
+        <translation type="unfinished">Bitcoin POW</translation>
     </message>
     <message>
         <location line="+1"/>
